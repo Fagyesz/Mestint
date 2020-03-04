@@ -1,0 +1,14 @@
+célfa,
+mélységi bejárás 
+szélességi bejárás 
+utkeresés 
+heurisztikus 
+informált algoritmus,
+hegymászó algoritmus 
+beam keresés 
+optimális ut kereső algoritmus-oracle
+szimulált hűtés 
+dinamikus lépés
+branch and bound B&B-hátizsák probléma
+
+A*
